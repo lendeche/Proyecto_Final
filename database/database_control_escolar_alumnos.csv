@@ -1,0 +1,16 @@
+id_alumno,matricula,nombre,apellido_paterno,apellido_materno,fecha_nacimiento,semestre,id_carrera
+1,2024001,Carlos,García,López,2004-05-10,4,1
+2,2024002,María,Sánchez,Ruiz,2003-09-12,5,1
+3,2024003,Luis,Martínez,Hernández,2004-02-15,3,1
+4,2024004,Andrea,Flores,Castro,2003-08-21,5,1
+5,2024005,Jorge,Ruiz,Mendoza,2004-11-12,2,2
+6,2024006,Fernanda,López,Silva,2003-04-08,6,2
+7,2024007,Ricardo,Gómez,Pérez,2002-10-20,8,3
+8,2024008,Valeria,Jiménez,Santos,2004-01-17,4,4
+9,2024009,Eduardo,Torres,Luna,2003-07-28,5,5
+10,2024010,Sofía,Vega,Morales,2005-03-10,2,6
+11,2024011,Alejandro,Castro,Ríos,2002-09-09,8,1
+12,2024012,Paola,Reyes,Navarro,2004-12-22,3,3
+21,9696868,Diego,Cano,Morales,NULL,5,5
+24,095605,Diego,Morales,Martinez,NULL,5,6
+26,689855,Alexa,Dominguez,Cano,NULL,7,6

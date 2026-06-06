@@ -1,0 +1,11 @@
+id_maestro,nombre,apellido_paterno,apellido_materno,especialidad,correo
+1,Juan,Pérez,NULL,"Bases de Datos",juan@escuela.com
+2,Ana,López,NULL,Programación,ana@escuela.com
+3,Roberto,Martínez,NULL,Redes,roberto@escuela.com
+4,Laura,Ramírez,NULL,Matemáticas,laura@escuela.com
+5,Miguel,Castillo,NULL,Programación,miguel@escuela.com
+6,Patricia,Morales,NULL,Contabilidad,patricia@escuela.com
+7,Fernando,Soto,NULL,"Derecho Civil",fernando@escuela.com
+8,Daniela,Navarro,NULL,Mercadotecnia,daniela@escuela.com
+11,Juan,Perez,Duran,Matematicas,juan@escuela
+12,Damian,Juarez,Cano,Matematicas,damian@escuela

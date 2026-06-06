@@ -1,0 +1,9 @@
+id_usuario,usuario,contrasena,rol
+1,admin,admin123,Administrador
+2,juanp,juan123,Maestro
+3,analopez,ana123,Maestro
+4,carlosg,carlos123,Alumno
+5,marias,maria123,Alumno
+6,luism,luis123,Alumno
+7,andreaf,andrea123,Alumno
+8,fernandal,fer123,Alumno
